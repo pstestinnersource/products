@@ -1,0 +1,24 @@
+productId: product-100006
+productName: 'product 1'
+description: this is description of product
+subGroup: 
+groupName: group1
+productOwners:
+  - 'User (user@mail.com)'
+productBacklogUrl: TBC
+videoURL: 
+logo: 
+usefulLinks:
+  - shortDescription: TBC
+    link: https://
+tags:
+  - 'tag1'
+  - 'tag2'
+keyFeatures:
+  - Feature1
+  - Feature2
+keyBenefits:
+  - TBC
+keyContacts:
+  - User (user@mail.com)
+
