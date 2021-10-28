@@ -1,6 +1,6 @@
 productId: product-one
 productName: 'product 1'
-description: this is description of product
+description: This is description of product. [click to visit psi-stg](https://www.psinnersource.stg.pscloudhub.com/)
 subGroup: 
 groupName: group1
 productOwners:
